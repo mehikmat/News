@@ -4,6 +4,6 @@
 </head>
 <body class="smart-green">
 Currently, The App has been taken down intentionally.<br>
-For further assistence, Plz contact via chat :) 
+For further assistence, Plz contact via <a href="https://www.facebook.com/WhiteBoxDeveloper"> FB Chat </a> :) 
 </body>
 </html>
